@@ -84,9 +84,16 @@ public class ItalianGenderQuizActivity extends QuizActivity {
 				answers.add(answer4);
 				//answers.add(answer5);
 
-				Question question = new Question(word, answers, Arrays.asList("ita category 1","ita category 2"));
+				Question question = new Question(word, answers, Arrays.asList("main"));
 				questions.add(question);
 			}
+			
+
+			Answer answer1 = new Answer("answer 1", false);
+			Answer answer2 = new Answer("answer 2", true);
+			Question testQ = new Question("question 1", Arrays.asList(answer1,answer2),
+					Arrays.asList("test"));
+			questions.add(testQ);
 		}
 
 		return questions;
