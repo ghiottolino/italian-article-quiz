@@ -31,7 +31,7 @@ public class ItalianGenderQuizActivity extends QuizActivity {
 	public void initGame() {
 		List<Question> questions = new LinkedList<Question>();
 		try {
-			questions = loadQuestions("ita_words_v_0_1.txt");
+			questions = loadQuestions("ita_words_v_0_2.txt");
 		} catch (IOException e) {
 			throw new RuntimeException("Could not load questions");
 		}
@@ -50,11 +50,17 @@ public class ItalianGenderQuizActivity extends QuizActivity {
 		String strLine;
 
 		while ((strLine = br.readLine()) != null) {
+			
+			String[]columns = strLine.split("\\|");
+			String en = columns[0].trim();
+			String it = columns[1].trim();
+			String category = columns[2].trim();
+				
 			//replace apostrophs with apostrophs + spaces
-			strLine = strLine.replace('\'', ' ');
+			it = it.replace('\'', ' ');
 			String[] split;
 			// TODO : make it better
-			split = strLine.split(" ", 2);
+			split = it.split(" ", 2);
 
 			if (split.length == 2) {
 				String word = split[1];
@@ -65,7 +71,6 @@ public class ItalianGenderQuizActivity extends QuizActivity {
 				Answer answer2 = new Answer("la", false);
 				Answer answer3 = new Answer("lo", false);
 				Answer answer4 = new Answer("l'", false);
-				// Answer answer5 = new Answer("gli", false);
 
 				if (article.equalsIgnoreCase("il")) {
 					answer1 = new Answer("il", true);
@@ -82,18 +87,10 @@ public class ItalianGenderQuizActivity extends QuizActivity {
 				answers.add(answer2);
 				answers.add(answer3);
 				answers.add(answer4);
-				//answers.add(answer5);
 
-				Question question = new Question(word, answers, Arrays.asList("main"));
+				Question question = new Question(word, answers, Arrays.asList(category));
 				questions.add(question);
 			}
-			
-
-			Answer answer1 = new Answer("answer 1", false);
-			Answer answer2 = new Answer("answer 2", true);
-			Question testQ = new Question("question 1", Arrays.asList(answer1,answer2),
-					Arrays.asList("test"));
-			questions.add(testQ);
 		}
 
 		return questions;

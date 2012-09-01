@@ -1,0 +1,626 @@
+the bear|l'orso|animals
+the beaver|il castoro|animals
+the cat|il gatto|animals
+the chimpanzee|lo scimpanzé|animals
+the deer|il cervo|animals
+the dog|il cane|animals
+the elephant|l'elefante|animals
+the fish|il pesce|animals
+the fox|la volpe|animals
+the goat|la capra|animals
+the gorilla|il gorilla|animals
+the hippopotamus|l'ippopotamo|animals
+the horse|il cavallo|animals
+the hyena|la iena|animals
+the kangaroo|il canguro|animals
+the kitten|il gattino|animals
+the leopard|il leopardo|animals
+the llama|il lama|animals
+the monkey|la scimmia|animals
+the mouse|il topo|animals
+the panda|il panda|animals
+the penguin|il pinguino|animals
+the pet|l'animale domestico|animals
+the puppy|il cucciolo|animals
+the rabbit|il coniglio|animals
+the rat|il ratto|animals
+the rhino|il rinoceronte|animals
+the sheep|la pecora|animals
+the squirrel|lo scoiattolo|animals
+the tiger|la tigre|animals
+the whale|la balena|animals
+the wolf|il lupo|animals
+the zebra|la zebra|animals
+the appetizer|l'antipasto|food
+the avocado|l'avocado|food
+the beef|la carne (di manzo)|food
+the breakfast|la colazione|food
+the cauliflower|il cavolfiore|food
+the celery|il sedano|food
+the cheese|il formaggio|food
+the chicken|il pollo|food
+the dessert|il dolce|food
+the dinner|la cena|food
+the egg|l'uovo|food
+the fish (cooked)|il pesce (cotto)|food
+The food|il cibo|food
+the french frie|la patatina fritta|food
+the hamburger|l'hamburger|food
+the hotdog|l'hotdog|food
+the lettuce|la lattuga|food
+the lunch|il pranzo|food
+the main dish|la portata principale|food
+the milk|il latte|food
+the pork|il maiale|food
+the potato|la patata|food
+the salad|l'insalata|food
+the sandwich|il panino|food
+the soup|la minestra|food
+the sugar|lo zucchero|food
+the turkey|il tacchino|food
+the water|l'acqua|food
+the apricot|l'albicocca|food
+the banana|la banana|food
+the beans|i fagioli|food
+the beet|la barbabietola|food
+the butter|il burro|food
+the candy|la caramella|food
+the flour|la farina|food
+the grape|l'uva|food
+the honey|il miele|food
+the jam|la marmellata|food
+the jelly|la gelatina (di frutta)|food
+the juice|il succo|food
+the ketchup|il ketchup|food
+the lime|la limetta|food
+the mayonnaise|la maionese|food
+the mustard|la mostarda|food
+the nut|la noce|food
+the peach|la pesca|food
+the peanut|la nocciolina|food
+the peanut butter|il burro di noccioline|food
+the pear|la pera|food
+the pineapple|l'ananas|food
+the popcorn|i popcorn|food
+the radish|il ravanello|food
+the raisin|l'uvetta|food
+the tomato|il pomodoro|food
+the lemon|il limone|food
+the ankle|la caviglia|body
+the arm|il braccio|body
+the back|la schiena|body
+the belly|la pancia|body
+the brain|il cervello|body
+the calf|il polpaccio|body
+the chest|il petto|body
+the chin|il mento|body
+the ear|l'orecchio|body
+the elbow|il gomito|body
+the eye|l'occhio|body
+the eyebrow|il sopracciglio|body
+the eyelash|il ciglio|body
+the eyelid|la palpebra|body
+the finger|il dito|body
+the fingernail|l'unghia|body
+the foot|il piede|body
+the forehead|la fronte|body
+the mind|la mente|body
+the stomach|lo stomaco|body
+the gum|la gengiva|body
+the hair|i capelli|body
+the hand|la mano|body
+the head|la testa|body
+the heel|il tallone|body
+the knee|il ginocchio|body
+the leg|la gamba|body
+the lip|il labbro|body
+the mouth|la bocca|body
+the nose|il naso|body
+the rib|la costola|body
+the teeth|i denti|body
+the thigh|la coscia|body
+the throat|la gola|body
+the toe|il dito|body
+the toenail|l'unghia (del dito del piede)|body
+the tongue|la lingua|body
+the wrist|il polso|body
+the neck|il collo|body
+badminton|il badminton|sport
+baseball|il baseball|sport
+basketball|la pallacanestro|sport
+cricket|il cricket|sport
+cycling|il ciclismo|sport
+football|il football americano|sport
+the game (sporting event)|la partita (l'evento sportivo)|sport
+golf|il golf|sport
+team handball|la pallamano|sport
+hockey|l' hockey|sport
+horseback riding|l' equitazione|sport
+ping pong|il ping pong|sport
+rugby|il rugby|sport
+soccer|il calcio|sport
+swimming|il nuoto|sport
+the team|la squadra|sport
+tennis|il tennis|sport
+volleyball|la pallavolo|sport
+afternoon|il pomeriggio|time
+dawn|l'alba|time
+evening|la sera|time
+the fall/autumn|l'autunno|time
+midnight|la mezzanotte|time
+night|la notte|time
+noon|il mezzogiorno|time
+spring|la primavera|time
+the summer|l'estate|time
+the winter|l'inverno|time
+morning|la mattina|time
+the blender|il frullatore|appliance
+the dishwasher|la lavastoviglie|appliance
+the dryer|l'asciugatrice|appliance
+the freezer|il congelatore|appliance
+the fridge|il frigorífero|appliance
+the iron|il ferro da stiro|appliance
+the microwave|il microonde|appliance
+the oven|il forno|appliance
+the toaster|il tostapane|appliance
+the washer|la lavatrice|appliance
+the water heater|lo scaldaacqua|appliance
+the cloud|la nuvola|weather
+cold|il freddo|weather
+the flood|l'inondazione|weather
+the fog|la nebbia|weather
+the humidity|l'umidità|weather
+the hurricane|l'uragano|weather
+the rain|la pioggia|weather
+the snow|la neve|weather
+the sun|il sole|weather
+the temperature|la temperatura|weather
+the thermometer|il termometro|weather
+the tornado|il tornado|weather
+the ball cap|il cappellino|clothes
+the belt|la cintura|clothes
+the clothes|i vestiti|clothes
+the coat|il cappotto|clothes
+the cotton|il cotone|clothes
+the dress|il vestito|clothes
+the gloves|i guanti|clothes
+the hat|il cappello|clothes
+the jacket|la giacca|clothes
+the pajamas|il pigiama|clothes
+the pants|i pantaloni|clothes
+the purse|la borsa (da donna)|clothes
+the sandals|i sandali|clothes
+the shirt|la camicia|clothes
+the shoelace|il laccio (delle scarpe)|clothes
+the shoe|la scarpa|clothes
+the skirt|la gonna|clothes
+the socks|i calzini|clothes
+the suit|il completo|clothes
+the sweater|il maglione|clothes
+the swimming suit|il costume (da bagno)|clothes
+the tie|la cravatta|clothes
+the velcro|il velcro|clothes
+the zipper|la cerniera|clothes
+the balloons|i palloncini|party
+the cake|la torta|party
+the frosting|la glassa|party
+the ice|il ghiaccio|party
+the ice cream|il gelato|party
+the presents|i regali|party
+the soda|la bibita gassata|party
+the sand|la sabbia|beach
+the sand castle|il castello di sabbia|beach
+the seaweed|l'alga|beach
+the shore|la riva|beach
+the sunglasses|gli occhiali da sole|beach
+the sunscreen|la crema solare|beach
+the swimsuit|il costume (da bagno)|beach
+the tide|la marea|beach
+the towel|il telo (da mare)|beach
+the wave|l'onda|beach
+the bag|la borsa|shopping
+the restroom|il bagno|shopping
+the bench|la panchina|shopping
+the clearance sale|la svendita|shopping
+the drinking fountain|la fontanella|shopping
+the restaurant|il ristorante|shopping
+the sale|la vendita|shopping
+the store|il negozio|shopping
+the bag|la borsa|shopping
+the can|la lattina|shopping
+the cashier|la cassiera|shopping
+the cash register|la cassa|shopping
+the dairy department|il reparto latticini|shopping
+the frozen foods department|il reparto surgelati|shopping
+the grocery store|il supermercato|shopping
+the receipt|lo scontrino|shopping
+the account|il conto|bank and finance
+the account number|il numero del conto|bank and finance
+the bank|la banca|bank and finance
+the check|l'assegno|bank and finance
+the checking account|il conto corrente|bank and finance
+the deposit|il deposito|bank and finance
+the finance|la finanza|bank and finance
+the interest|l'interesse|bank and finance
+the money|i soldi|bank and finance
+the savings account|il conto risparmio|bank and finance
+the teller|la cassiera|bank and finance
+the vault|il caveau|bank and finance
+the withdrawal|il ritiro|bank and finance
+the bathroom|il bagno|bathroom
+the bathtub|la vasca da bagno|bathroom
+the mirror|lo specchio|bathroom
+the pipe|il tubo|bathroom
+the shampoo|lo shampoo|bathroom
+the shower|la doccia|bathroom
+the sink|il lavandino|bathroom
+the soap|il sapone|bathroom
+the toilet|il gabinetto|bathroom
+the alarm clock|la sveglia|bedroom
+the bed|il letto|bedroom
+the bedroom|la camera da letto|bedroom
+the blanket|la coperta|bedroom
+the ceiling|il soffitto|bedroom
+the closet|l'armadio|bedroom
+the dresser|il cassettone|bedroom
+the hanger|la gruccia|bedroom
+the lamp|la lampada|bedroom
+the nightstand|il comodino|bedroom
+the pillow|il cuscino|bedroom
+the sheet|il lenzuolo|bedroom
+the wall|il muro|bedroom
+the automatic transmission|il cambio automatico|car 
+the axle|l'asse|car
+the brakes|i freni|car
+the bumper|il paraurti|car
+the driver|il guidatore|car
+the engine|il motore|car
+first gear|la prima (marcia)|car
+the gas|la benzina|car
+the gas pedal|l'accelleratore|car
+the gas tank|il serbatoio|car
+the gear shift|il cambio|car
+the headlight|la luce (anteriore)|car
+the hood|il cofano|car
+the horn|il clacson|car
+the jack|il cric|car
+the manual transmission|il cambio manuale|car
+the rearview mirror|lo specchietto retrovisore|car
+the seat belt|la cintura (di sicurezza)|car
+the spare tire|la ruota di scorta|car
+the steering wheel|il volante|car
+the sun roof|il tettino apribile|car
+the taillight|la luce (posteriore)|car
+the tire|la gomma|car
+the trunk|il bagagliaio|car
+the turn signal|la freccia|car
+the visor|la visiera|car
+the wheel|la ruota|car
+the window|il finestrino|car
+the windshield|il parabrezza|car
+the wipers|i tergicristalli|car
+the bleach|la varichina|cleaning supplies
+the broom|la scopa|cleaning supplies
+the detergent|il sapone|cleaning supplies
+the mop|lo straccio per lavare|cleaning supplies
+the paper towels|lo scottex|cleaning supplies
+the rag|il cencio|cleaning supplies
+the sponge|la spugna|cleaning supplies
+the towel|il telo|cleaning supplies
+the vacuum|l'aspirapolvere|cleaning supplies
+Africa|l'Africa|geography
+Argentina|l'Argentina|geography
+Australia|l'Australia|geography
+Brazil|il Brasile|geography
+Belgium|il Belgio|geography
+Canada|il Canada|geography
+Chile|il Cile|geography
+China|la Cina|geography
+England|l'Inghilterra|geography
+France|la Francia|geography
+Germany|la Germania|geography
+India|l'India|geography
+Ireland|l'Irlanda|geography
+Iran|l'Iran|geography
+Iraq|l'Iraq|geography
+Israel|Israele|geography
+Japan|il Giappone|geography
+Lebanon|il Libano|geography
+Mexico|il Messico|geography
+New Zealand|la Nuova Zelanda|geography
+Portugal|il Portogallo|geography
+Russia|la Russia|geography
+Spain|la Spagna|geography
+Sweden|la Svezia|geography
+Switzerland|la Svizzera|geography
+Uruguay|l'Uruguay|geography
+Vietnam|il Vietnam|geography
+South America|l'America del Sud|geography
+North America|l'America del Nord|geography
+Europe|l'Europa|geography
+Asia|l'Asia|geography
+Antarctica|l'Antartica|geography
+the aunt|la zia|family
+the boyfriend|il ragazzo|family
+the brother|il fratello|family
+the brother-in-law|il cognato|family
+the cousin|il cugino|family
+the cousin|la cugina|family
+the dad|il papà|family
+the daughter|la figlia|family
+the daughter-in-law|la nuora|family
+the family|la famiglia|family
+the father|il padre|family
+the father-in-law|il suocero|family
+the fiancé|il fidanzato|family
+the fiancé|la fidanzata|family
+the friend|l'amico|family
+the friend|l'amica|family
+the girlfriend|la ragazza|family
+the grandma|la nonna|family
+the grandpa|il nonno|family
+the grandparents|i nonni|family
+the husband|il marito|family
+the mom|la mamma|family
+the mother|la madre|family
+the mother-in-law|la suocera|family
+the nephew|il nipote|family
+the niece|la nipote|family
+the relationships|le relazioni|family
+the sister|la sorella|family
+the sister-in-law|la cognata|family
+the son|il figlio|family
+the son-in-law|il genero|family
+the uncle|lo zio|family
+the wife|la moglie|family
+the armchair|la poltrona|furniture
+the bed|il letto|furniture
+the chair|la sedia|furniture
+the desk|la scrivania|furniture
+the furniture|i mobili|furniture
+the garbage can|il bidone della spazzatura|furniture
+the piano|il pianoforte|furniture
+the sofa|il divano|furniture
+the table|il tavolo|furniture
+the ballot|il ballottaggio|politics
+the congress|il congreso|politics
+the congressman|il membro del congresso|politics
+the democrat|il democratico|politics
+the election|l'elezione|politics
+the governor|il governatore|politics
+the house of representatives|la Camera dei Rappresentanti|politics
+the king|il re|politics
+the mayor|il sindaco|politics
+the parliament|il parlamento|politics
+the party (political party)|il partito (politico)|politics
+the president|il presidente|politics
+the prime minister|il primo ministero|politics
+the republican|il repubblicano|politics
+the senate|il senato|politics
+the senator|il senatore|politics
+the vote|il voto|politics
+the bowl|la scodella|kitchen
+the cabinet|l'armadietto|kitchen
+the drain|il tubo di scarico|kitchen
+the freezer|il congelatore|kitchen
+the fridge|il frigorifero|kitchen
+the frying pan|la padella per friggere|kitchen
+the kitchen|la cucina|kitchen
+the lid|il coperchio|kitchen
+the oven|il forno|kitchen
+the sauce pan|la pentola|kitchen
+the stove|il fornello|kitchen
+the carpet|il tappeto|living room
+the fire place|il caminetto|living room
+the living room|il soggiorno|living room
+the painting|il quadro|living room
+the recliner|la poltrona reclinabile|living room
+the shelf|lo scaffale|living room
+the sofa|il divano|living room
+the staircase|le scale|living room
+the tv|il televisore|living room
+the vase|il vaso|living room
+the attack|l'attacco|military
+the fighter jet|il jet da combattimento|military
+the cease fire|il cessate il fuoco|military
+the commander|il comandante|military
+the army|l'esercito|military
+the general|il generale|military
+the helicopter|l'elicottero|military
+the casualty|la vittima|military
+the missile|il missile|military
+the soldier|il soldato|military
+the tank|il carro armato|military
+the battle|la battaglia|military
+the bomb|la bomba|military
+the explosion|l'esplosione|military
+the airforce|la forza aerea|military
+the grenade|la granata|military
+the war|la guerra|military
+the invasion|l'invasione|military
+the navy|la marina|military
+the peace|la pace|military
+the weapons|le armi|military
+the weapons of mass destruction|le armi di distruzione di massa|military
+the conductor|il direttore d'orchestra|music
+the drums|la batteria|music
+the genres|il genere|music
+the guitar|la chitarra|music
+the lyrics|i testi|music
+the organ|l'organo|music
+the piano|il pianoforte|music
+the trumpet|la tromba|music
+the cliff|la rupe|nature
+the flower|il fiore|nature
+the garden|il giardino|nature
+the garden (vegetable)|l'orto|nature
+the grass (lawn)|l'erba (il prato)|nature
+the herb|le erbe|nature
+the lake|il lago|nature
+the mountain range|la catena montuosa|nature
+the mountains|le montagne|nature
+the ocean|l'oceano|nature
+the plant|la pianta|nature
+the river|il fiume|nature
+the sea|il mare|nature
+the shore|la riva|nature
+the soil|il suolo|nature
+the tree|l'albero|nature
+the waterfalls|le cascate|nature
+the weed|l'erbaccia|nature
+the brick|il mattone|outside
+the bush|il cespuglio|outside
+the chimney|il camino|outside
+the door|la porta|outside
+the driveway|il vialetto (del garage)|outside
+the garage|il garage|outside
+the lawn|il prato|outside
+the patio|la terrazza|outside
+the porch|il portico|outside
+the roof|il tetto|outside
+the sidewalk|il marciapiede|outside
+the wall|il muro|outside
+the window|il finestrino|outside
+the bowl|la scodella|restaurant
+the chair|la sedia|restaurant
+the check|il conto|restaurant
+the cup|la tazza|restaurant
+the fork|la forchetta|restaurant
+the knife|il coltello|restaurant
+manners|le maniere|restaurant
+the menu|il menu|restaurant
+the napkin|il tovagliolo|restaurant
+the pepper|il pepe|restaurant
+the pitcher|la caraffa|restaurant
+the plate|il piatto|restaurant
+the salt|il sale|restaurant
+the spoon|il cucchiaio|restaurant
+the waitress|la cameriera|restaurant
+the waiter|il cameriere|restaurant
+art|l'arte|school and science
+the black hole|il buco nero|school and science
+the earth|la terra|school and science
+the experiment|l'esperimento|school and science
+the galaxy|la galassia|school and science
+history|la storia|school and science
+language|la lingua|school and science
+math|la matematica|school and science
+the moon|la luna|school and science
+the music|la musica|school and science
+psychology|la psicologia|school and science
+physical education|l'educazione fisica|school and science
+science|le scienze|school and science
+the solar system|il sistema solare|school and science
+the stars|le stelle|school and science
+the sun|il sole|school and science
+language| il linguaggio|school and science
+the backpack|lo zaino|school supplies
+the briefcase|la ventiquattrore|school supplies
+the calculator|la calcolatrice|school supplies
+the chair|la sedia|school supplies
+the colored pencil|la matita colorata|school supplies
+the computer|il computer|school supplies
+the crayons|i pastelli|school supplies
+the desk|la scrivania|school supplies
+the folder|la cartellina|school supplies
+the glue|la colla|school supplies
+the markers|i pennarelli|school supplies
+the mechanical pencil|la matita a mina|school supplies
+the notebook|il quaderno (per appunti)|school supplies
+the paper|la carta|school supplies
+the pen|la penna|school supplies
+the pencil|il lapis|school supplies
+the staple|la graffetta|school supplies
+the stapler|la spillatrice|school supplies
+the camera|la macchina fotografica|technology
+the CD|il CD|technology
+the cell phone|il (telefono) cellulare|technology
+the computer|il computer|technology
+DVD|il DVD|technology
+the e-mail|la email|technology
+the fax machine|il fax|technology
+the stereo|lo stereo|technology
+the iPod|l'iPod|technology
+the internet|l'internet|technology
+the telephone|il telefono|technology
+video games|i videogiochi|technology
+the axe|la scure|tools
+the axle|l'asse|tools
+the bar|la sbarra|tools
+the blade|la lama|tools
+the cord|il cordoncino|tools
+the drill|il trapano|tools
+the drill bit|la punta per il trapano|tools
+the flashlight|la pila|tools
+the hammer|il martello|tools
+the handle|la maniglia|tools
+the knife|il coltello|tools
+the nut (as in nut and bolt)|il dado (dadi e bulloni)|tools
+the pliers|le pinze|tools
+the pulley|la carrucola|tools
+the ramp|la rampa|tools
+the rope|la corda|tools
+the ruler|il righello|tools
+the saw|la sega|tools
+the screw-driver|il cacciavite|tools
+the tape measure|il metro|tools
+the tool|l'attrezzo|tools
+the wheel|la ruota|tools
+the wrench|la chiave inglese|tools
+the ball|la palla|toys
+baseball|la palla da baseball|toys
+basketball|il pallone da pallacanestro|toys
+basketball hoop|il cesto (da pallacanestro)|toys
+crayons|i pastelli|toys
+football|il pallone da football|toys
+hula hoop|l'hula hoop|toys
+jump rope|la corda (saltare la corda)|toys
+phone|il telefono|toys
+remote control car|la macchina telecomandata|toys
+rubber ball|la palla di gomma|toys
+sled|la slitta|toys
+soccer ball|il pallone da calcio|toys
+softball|la palla da softball|toys
+the blocks|i cubi|toys
+the doll|la bambola|toys
+the skates|i pattini|toys
+the toys|i giocattoli|toys
+the truck|il camioncino|toys
+trampoline|il trampolino|toys
+yo yo|lo yo yo|toys
+the airport|l'aereoporto|travel
+the baggage|il bagaglio|travel
+the boat|la barca|travel
+the bus station|la stazione d'gli autobus|travel
+the cable|la funivia|travel
+the carry on|il bagaglio a mano|travel
+the check-in|il check-in|travel
+the check-out|il check-out|travel
+the departure|la partenza|travel
+the flight|il volo|travel
+the gate|l'uscita|travel
+the gate|il gate|travel
+the hotel|l'albergo|travel
+the hotel|l'hotel|travel
+the kiosk|il chiosco|travel
+the landing|l'atterraggio|travel
+the line|la fila|travel
+the metal detector|il metal detector|travel
+the platform|la piattaforma|travel
+room|la stanza|travel
+the runway|la pista|travel
+the security guard|la guardia giurata|travel
+the ship|la nave|travel
+the subway|la metropolitana|travel
+the suitcase|la valigia|travel
+the takeoff|il decollo|travel
+the terminal|il terminal|travel
+the ticket|il biglietto|travel
+the airplane|l'aeroplano|vehichles
+the bicycle|la bicicletta|vehichles
+the car|la macchina|vehichles
+the helicopter|l'elicottero|vehichles
+the motorcycle|la motocicletta|vehichles
+the taxi|il taxi|vehichles
+the train|il treno|vehichles
+the truck|il camion|vehichles
