@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Vector;
@@ -28,48 +29,6 @@ public class ItalianGenderQuizActivity extends QuizActivity {
 
 	@Override
 	public void initGame() {
-		// List<Question> questions = new Vector<Question>();
-		// List<Answer> answers1 = new Vector<Answer>();
-		// List<Answer> answers2 = new Vector<Answer>();
-		// List<Answer> answers3 = new Vector<Answer>();
-		// List<Answer> answers4 = new Vector<Answer>();
-		//
-		// Answer answer1false = new Answer("ita answer 1", false);
-		// Answer answer2false = new Answer("ita answer 2", false);
-		// Answer answer3false = new Answer("ita answer 3", false);
-		// Answer answer4false = new Answer("ita answer 4", false);
-		// Answer answer1true = new Answer("ita answer 1", true);
-		// Answer answer2true = new Answer("ita answer 2", true);
-		// Answer answer3true = new Answer("ita answer 3", true);
-		// Answer answer4true = new Answer("ita answer 4", true);
-		//
-		// answers1.add(answer1true);
-		// answers1.add(answer2false);
-		// answers1.add(answer3false);
-		//
-		// answers2.add(answer1false);
-		// answers2.add(answer2true);
-		// answers2.add(answer3false);
-		// answers2.add(answer4false);
-		//
-		// answers3.add(answer1false);
-		// answers3.add(answer2true);
-		// answers3.add(answer3true);
-		//
-		// answers4.add(answer1false);
-		// answers4.add(answer2true);
-		// answers4.add(answer3false);
-		// answers4.add(answer4true);
-		//
-		// Question question1 = new Question("ita question 1", answers1);
-		// Question question2 = new Question("ita question 2", answers2);
-		// Question question3 = new Question("ita question 3", answers3);
-		// Question question4 = new Question("ita question 4", answers4);
-		//
-		// questions.add(question1);
-		// questions.add(question2);
-		// questions.add(question3);
-		// questions.add(question4);
 		List<Question> questions = new LinkedList<Question>();
 		try {
 			questions = loadQuestions("ita_words_v_0_1.txt");
@@ -77,11 +36,11 @@ public class ItalianGenderQuizActivity extends QuizActivity {
 			throw new RuntimeException("Could not load questions");
 		}
 
-		setSettingPrefixName(SETTING_PREF_KEY);
 		Integer record = getIntFieldInPreferences(RECORD_PREF_KEY);
 		Game game = new Game(questions, record);
-		setGame(game);
+		Game.setInstance(game);
 		loadSession();
+		loadSettings();
 	}
 
 	private List<Question> loadQuestions(String fileName) throws IOException {
@@ -91,8 +50,9 @@ public class ItalianGenderQuizActivity extends QuizActivity {
 		String strLine;
 
 		while ((strLine = br.readLine()) != null) {
+			//replace apostrophs with apostrophs + spaces
+			strLine = strLine.replace('\'', ' ');
 			String[] split;
-
 			// TODO : make it better
 			split = strLine.split(" ", 2);
 
@@ -113,7 +73,7 @@ public class ItalianGenderQuizActivity extends QuizActivity {
 					answer2 = new Answer("la", true);
 				} else if (article.equalsIgnoreCase("lo")) {
 					answer3 = new Answer("lo", true);
-				} else if (article.equalsIgnoreCase("l'")) {
+				} else if (article.equalsIgnoreCase("l")) {
 					answer4 = new Answer("l'", true);
 				} else {
 					 continue;
@@ -124,7 +84,7 @@ public class ItalianGenderQuizActivity extends QuizActivity {
 				answers.add(answer4);
 				//answers.add(answer5);
 
-				Question question = new Question(word, answers);
+				Question question = new Question(word, answers, Arrays.asList("ita category 1","ita category 2"));
 				questions.add(question);
 			}
 		}
@@ -138,7 +98,12 @@ public class ItalianGenderQuizActivity extends QuizActivity {
 
 		if (itemId == android.R.id.home) {
 			Intent myIntent = new Intent(this, ItalianGenderQuizActivity.class);
-			startActivityForResult(myIntent, 0);
+			startActivity(myIntent);
+		}
+		else if (itemId == R.id.menu_settings) {
+			Intent settingsIntent; 
+			settingsIntent = new Intent(this,SettingsActivity.class); 
+			startActivity(settingsIntent); 
 		}
 
 		return super.onOptionsItemSelected(item);

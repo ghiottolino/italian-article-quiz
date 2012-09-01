@@ -1,17 +1,15 @@
-le patatine fritte
-l' orso 
-gli animali 
+l'orso 
 il castoro 
 il gatto 
 lo scimpanzé 
 il cervo 
 il cane 
-l' elefante 
+l'elefante 
 il pesce 
 la volpe 
 la capra 
 il gorilla 
-l' ippopotamo 
+l'ippopotamo 
 il cavallo 
 la iena 
 il canguro 
@@ -22,7 +20,7 @@ la scimmia
 il topo
 il panda
 il pinguino
-l' animale domestico
+l'animale domestico
 il cucciolo
 il coniglio
 il ratto
@@ -33,8 +31,8 @@ la tigre
 la balena
 il lupo
 la zebra
-l' antipasto 
-l' avocado 
+l'antipasto 
+l'avocado 
 la carne (di manzo) 
 la colazione 
 il cavolfiore 
@@ -43,31 +41,32 @@ il formaggio
 il pollo 
 il dolce 
 la cena 
-l' uovo 
+l'uovo 
 il pesce (cotto) 
 il cibo 
-l' hamburger
-l' hotdog
+la patatina fritta 
+l'hamburger
+l'hotdog
 la lattuga
 il pranzo
 la portata principale
 il latte
 il maiale
-le patate
-l' insalata
+la patata
+l'insalata
 il panino
 la minestra
 lo zucchero
 il tacchino
-l' acqua
-l' albicocca 
+l'acqua
+l'albicocca 
 la banana 
 i fagioli 
 la barbabietola 
 il burro 
 la caramella 
 la farina 
-l' uva 
+l'uva 
 il miele 
 la marmellata 
 la gelatina (di frutta) 
@@ -81,10 +80,10 @@ la pesca
 la nocciolina
 il burro di noccioline
 la pera
-l' ananas
+l'ananas
 i popcorn
 il ravanello
-l' uvetta
+l'uvetta
 il pomodoro
 il limone
 la caviglia 
@@ -95,14 +94,14 @@ il cervello
 il polpaccio 
 il petto 
 il mento 
-l' orecchio (le orecchie) 
+l'orecchio (le orecchie) 
 il gomito 
-l' occhio
+l'occhio
 il sopracciglio
 il ciglio
 la palpebra
 il dito
-l' unghia
+l'unghia
 il piede
 la fronte
 la mente
@@ -114,7 +113,7 @@ la testa
 il tallone 
 il ginocchio (le ginocchia) 
 la gamba 
-le labbra
+il labbro
 la bocca 
 il naso
 la costola
@@ -122,7 +121,7 @@ i denti
 la coscia
 la gola
 il dito
-l' unghia (del dito del piede)
+l'unghia (del dito del piede)
 la lingua
 il polso
 il collo
@@ -132,11 +131,11 @@ la pallacanestro
 il cricket 
 il ciclismo 
 il football americano 
-la partita (l' evento sportivo) 
+la partita (l'evento sportivo) 
 il golf 
 la pallamano 
-l'  hockey
-l'  equitazione
+l' hockey
+l' equitazione
 il ping pong
 il rugby
 il calcio
@@ -145,19 +144,19 @@ la squadra
 il tennis
 la pallavolo
 il pomeriggio 
-l' alba 
+l'alba 
 la sera 
-l' autunno 
+l'autunno 
 la mezzanotte 
 la notte
 il mezzogiorno
 la primavera
-l' estate
-l' inverno
+l'estate
+l'inverno
 la mattina
 il frullatore 
 la lavastoviglie 
-l' asciugatrice 
+l'asciugatrice 
 il congelatore 
 il frigorífero 
 il ferro da stiro
@@ -168,10 +167,10 @@ la lavatrice
 lo scaldaacqua
 la nuvola 
 il freddo 
-l' inondazione 
+l'inondazione 
 la nebbia 
-l' umidità 
-l' uragano 
+l'umidità 
+l'uragano 
 la pioggia
 la neve
 il sole
@@ -191,9 +190,9 @@ il pigiama
 i pantaloni 
 la borsa (da donna) 
 i sandali
-le camicie
+la camicia
 il laccio (delle scarpe)
-le scarpe
+la scarpa
 la gonna
 i calzini
 il completo
@@ -202,3 +201,426 @@ il costume (da bagno)
 la cravatta
 il velcro
 la cerniera
+i palloncini 
+la torta 
+la glassa 
+il ghiaccio 
+il gelato
+i regali
+la bibita gassata
+la sabbia 
+il castello di sabbia 
+l'alga 
+la riva 
+gli occhiali da sole 
+la crema solare
+il costume (da bagno)
+la marea
+il telo (da mare)
+l'onda
+la borsa 
+il bagno 
+la panchina 
+la svendita 
+la fontanella
+il ristorante
+la vendita
+il negozio
+la borsa 
+la lattina
+la cassiera 
+la cassa 
+il reparto latticini
+il reparto surgelati
+il supermercato
+lo scontrino
+il conto 
+il numero del conto 
+la banca 
+l'assegno 
+il conto corrente 
+il deposito 
+la finanza
+l'interesse
+i soldi
+il conto risparmio
+la cassiera
+il caveau
+il ritiro
+il bagno 
+la vasca da bagno 
+lo specchio 
+il tubo 
+lo shampoo 
+la doccia
+il lavandino
+il sapone
+il gabinetto
+la sveglia 
+il letto 
+la camera da letto 
+la coperta 
+il soffitto 
+l'armadio 
+il cassettone 
+la gruccia
+la lampada
+il comodino
+il cuscino
+il lenzuolo
+il muro
+il cambio automatico 
+l'asse 
+i freni 
+il paraurti 
+il guidatore 
+il motore 
+la prima (marcia) 
+la benzina 
+l'accelleratore 
+il serbatoio 
+il cambio 
+la luce (anteriore) 
+il cofano 
+il clacson 
+il cric 
+il cambio manuale
+lo specchietto retrovisore
+la cintura (di sicurezza)
+la ruota di scorta
+il volante
+il tettino apribile
+la luce (posteriore)
+la gomma
+il bagagliaio
+la freccia
+la visiera
+la ruota
+il finestrino
+il parabrezza
+i tergicristalli
+la varichina 
+la scopa 
+il sapone 
+lo straccio per lavare 
+lo scottex 
+il cencio
+la spugna
+il telo
+l'aspirapolvere
+l'Africa 
+l'Argentina 
+l'Australia 
+il Brasile 
+il Belgio 
+il Canada 
+il Cile 
+la Cina 
+l'Inghilterra 
+la Francia 
+la Germania 
+l'India 
+l'Irlanda 
+l'Iran 
+l'Iraq 
+Israele 
+il Giappone 
+il Libano 
+il Messico
+la Nuova Zelanda
+il Portogallo
+la Russia
+la Spagna
+la Svezia
+la Svizzera
+l'Uruguay
+il Vietnam
+l'America del Sud
+l'America del Nord
+l'Europa
+l'Asia
+l'Antartica
+la zia 
+il ragazzo 
+il fratello 
+il cognato 
+il cugino
+la cugina
+il papà 
+la figlia 
+la nuora 
+la famiglia 
+il padre 
+il suocero 
+il fidanzato
+la fidanzata 
+l'amico
+l'amica 
+la ragazza 
+la nonna 
+il nonno
+i nonni
+il marito
+la mamma
+la madre
+la suocera
+il nipote
+la nipote
+le relazioni
+la sorella
+la cognata
+il figlio
+il genero
+lo zio
+la moglie
+la poltrona 
+il letto 
+la sedia 
+la scrivania 
+i mobili 
+il bidone della spazzatura
+il pianoforte
+il divano
+il tavolo
+il ballottaggio 
+il congreso 
+il membro del congresso 
+il democratico 
+l'elezione 
+il governatore 
+la Camera dei Rappresentanti 
+il re 
+il sindaco 
+il parlamento
+il partito (politico)
+il presidente
+il primo ministero
+il repubblicano
+il senato
+il senatore
+il voto
+la scodella 
+l'armadietto 
+il tubo di scarico 
+il congelatore 
+il frigorifero 
+la padella per friggere 
+la cucina
+il coperchio
+il forno
+la pentola
+il fornello
+il tappeto 
+il caminetto 
+il soggiorno 
+il quadro 
+la poltrona reclinabile 
+lo scaffale
+il divano
+le scale
+il televisore
+il vaso
+l'attacco 
+il jet da combattimento 
+il cessate il fuoco 
+il comandante 
+l'esercito 
+il generale 
+l'elicottero 
+la vittima 
+il missile 
+il soldato 
+il carro armato 
+la battaglia
+la bomba
+l'esplosione
+la forza aerea
+la granata
+la guerra
+l'invasione
+la marina
+la pace
+le armi
+le armi di distruzione di massa
+il direttore d'orchestra 
+la batteria 
+il genere 
+la chitarra 
+i testi
+l'organo
+il pianoforte
+la tromba
+la rupe 
+il fiore 
+il giardino 
+l'orto 
+l'erba (il prato) 
+le erbe 
+il lago 
+la catena montuosa 
+le montagne 
+l'oceano
+la pianta
+il fiume
+il mare
+la riva
+il suolo
+l'albero
+le cascate
+l'erbaccia
+il mattone 
+il cespuglio 
+il camino 
+la porta 
+il vialetto (del garage) 
+il garage 
+il prato 
+la terrazza
+il portico
+il tetto
+il marciapiede
+il muro
+il finestrino
+la scodella 
+la sedia 
+il conto 
+la tazza 
+la forchetta 
+il coltello 
+le maniere 
+il menu 
+il tovagliolo
+il pepe
+la caraffa
+il piatto
+il sale
+il cucchiaio
+la cameriera
+il cameriere
+l'arte 
+il buco nero 
+la terra 
+l'esperimento 
+la galassia 
+la storia 
+la lingua
+la matematica 
+la luna 
+la musica
+la psicologia
+l'educazione fisica
+le scienze
+il sistema solare
+le stelle
+il sole
+ il linguaggio 
+lo zaino 
+la ventiquattrore 
+la calcolatrice 
+la sedia 
+la matita colorata 
+il computer 
+i pastelli 
+la scrivania 
+la cartellina 
+la colla
+i pennarelli
+la matita a mina
+il quaderno (per appunti)
+la carta
+la penna
+il lapis
+la graffetta
+la spillatrice
+la macchina fotografica 
+il CD 
+il (telefono) cellulare 
+il computer 
+il DVD 
+la email 
+il fax
+lo stereo
+l'iPod
+l'internet
+il telefono
+i videogiochi
+la scure 
+l'asse 
+la sbarra 
+la lama 
+il cordoncino 
+il trapano 
+la punta per il trapano 
+la pila 
+il martello 
+la maniglia 
+il coltello 
+il dado (dadi e bulloni) 
+le pinze
+la carrucola
+la rampa
+la corda
+il righello
+la sega
+il cacciavite
+il metro
+l'attrezzo
+la ruota
+la chiave inglese
+la palla 
+la palla da baseball 
+il pallone da pallacanestro 
+il cesto (da pallacanestro) 
+i pastelli 
+il pallone da football 
+l'hula hoop 
+la corda (saltare la corda) 
+il telefono 
+la macchina telecomandata 
+la palla di gomma 
+la slitta
+il pallone da calcio
+la palla da softball
+i cubi
+la bambola
+i pattini
+i giocattoli
+il camioncino
+il trampolino
+lo yo yo
+l'aereoporto 
+il bagaglio 
+la barca 
+la stazione d'gli autobus 
+la funivia 
+il bagaglio a mano 
+il check-in 
+il check-out 
+la partenza 
+il volo 
+l'uscita
+il gate
+l'albergo
+l'hotel
+il chiosco 
+l'atterraggio
+la fila
+il metal detector
+la piattaforma
+la stanza
+la pista
+la guardia giurata
+la nave
+la metropolitana
+la valigia
+il decollo
+il terminal
+il biglietto
+l'aeroplano 
+la bicicletta 
+la macchina 
+l'elicottero 
+la motocicletta
+il taxi
+il treno
+il camion
